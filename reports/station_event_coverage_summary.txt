@@ -1,0 +1,11 @@
+Flood-event records: 125
+Stations: 2
+Event-station combinations: 250
+Events with at least one usable station record in the buffered window: 83
+Events without usable station records in the buffered window: 42
+
+Window: event calendar dates plus 3 days before and after.
+Counts use original station date labels.
+Missing dates and excluded observations are not zero rainfall.
+This does not establish exact accumulation-interval overlap
+with flood hours or temporal equivalence with PRISM.

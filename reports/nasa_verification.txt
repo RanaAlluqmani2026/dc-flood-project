@@ -1,0 +1,17 @@
+NASA scenes: 2
+PRISM precipitation and station groups: present
+
+Scene: OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0
+Water and cloud values match original raster windows.
+Native grid, CRS, coordinates and usable mask: PASS
+Saved shape: (757, 606)
+Usable DC pixels: 60709
+
+Scene: OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0
+Water and cloud values match original raster windows.
+Native grid, CRS, coordinates and usable mask: PASS
+Saved shape: (757, 606)
+Usable DC pixels: 25613
+
+NASA verification: PASS
+This check does not establish that flooding was observed.

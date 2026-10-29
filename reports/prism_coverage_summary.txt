@@ -1,0 +1,16 @@
+Required unique dates: 145
+Stored unique dates: 145
+Missing required dates: 0
+Extra dates: 0
+Event-date links with a stored grid: 150/150
+Days with all cells valid: 145/145
+Negative precipitation cells: 0
+Missing dates: None
+
+Scope: rectangular area covering DC and surrounding locations.
+Daily mean is the mean across valid cells in this rectangle.
+It is not a mean restricted to the DC boundary.
+PRISM dates label 24-hour periods ending at 12:00 UTC.
+Daily totals do not isolate rainfall during flood-event hours.
+Date coverage is checked against prism_event_dates.csv.
+The event-to-PRISM date mapping requires a separate review.

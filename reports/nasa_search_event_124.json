@@ -1,0 +1,2646 @@
+{
+  "event_id": 124,
+  "retrieved_utc": "2026-10-28T16:11:33.980645+00:00",
+  "search_url": "https://cmr.earthdata.nasa.gov/search/granules.json?short_name=OPERA_L3_DSWX-HLS_V1&bounding_box=-77.15%2C38.78%2C-76.90%2C39.00&temporal=2025-07-10T00%3A00%3A00Z%2C2025-07-16T23%3A59%3A59Z&page_size=100",
+  "catalog_response": {
+    "feed": {
+      "updated": "2026-10-28T16:11:33.586Z",
+      "id": "https://cmr.earthdata.nasa.gov:443/search/granules.json?short_name=OPERA_L3_DSWX-HLS_V1&bounding_box=-77.15%2C38.78%2C-76.90%2C39.00&temporal=2025-07-10T00%3A00%3A00Z%2C2025-07-16T23%3A59%3A59Z&page_size=100",
+      "title": "ECHO granule metadata",
+      "entry": [
+        {
+          "producer_granule_id": "OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0",
+          "boxes": [
+            "38.7808464 -77.3922741 39.788742 -76.0951588"
+          ],
+          "time_start": "2025-07-11T15:45:50.118Z",
+          "updated": "2025-07-13T03:49:47.469Z",
+          "dataset_id": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)",
+          "data_center": "POCLOUD",
+          "title": "OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0",
+          "coordinate_system": "CARTESIAN",
+          "day_night_flag": "UNSPECIFIED",
+          "time_end": "2025-07-11T15:45:50.118Z",
+          "id": "G3602124988-POCLOUD",
+          "original_format": "UMM_JSON",
+          "granule_size": "46.072922706604",
+          "browse_flag": true,
+          "collection_concept_id": "C2617126679-POCLOUD",
+          "online_access_flag": true,
+          "links": [
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_BROWSE.png",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B01_WTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B02_BWTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B03_CONF.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B04_DIAG.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B05_WTR-1.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B06_WTR-2.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B07_LAND.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B08_SHAD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B09_CLOUD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B10_DEM.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0.iso.xml",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B01_WTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B02_BWTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B03_CONF.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B04_DIAG.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B05_WTR-1.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B06_WTR-2.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B07_LAND.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B08_SHAD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B09_CLOUD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B10_DEM.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T154550Z_20250713T033640Z_L8_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "api endpoint to retrieve temporary credentials valid for same-region direct s3 access",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/s3credentials"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://podaac.jpl.nasa.gov/CitingPODAAC"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://cmr.earthdata.nasa.gov/virtual-directory/collections/C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://search.earthdata.nasa.gov/search/granules?p=C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://doi.org/10.3390/rs11040374"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://github.com/OPERA-Cal-Val/OPERA_Applications"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/atbd/DSWx-HLS_ATBD_V1_4_DAAC_Distribution.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://github.com/podaac/data-subscriber"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "hreflang": "en-US",
+              "href": "https://harmony.earthdata.nasa.gov/"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            }
+          ]
+        },
+        {
+          "producer_granule_id": "OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0",
+          "boxes": [
+            "37.8803635 -77.3617863 38.8878263 -76.0816707"
+          ],
+          "time_start": "2025-07-11T15:46:14.009Z",
+          "updated": "2025-07-13T02:46:06.841Z",
+          "dataset_id": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)",
+          "data_center": "POCLOUD",
+          "title": "OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0",
+          "coordinate_system": "CARTESIAN",
+          "day_night_flag": "UNSPECIFIED",
+          "time_end": "2025-07-11T15:46:14.009Z",
+          "id": "G3602063188-POCLOUD",
+          "original_format": "UMM_JSON",
+          "granule_size": "41.55836772918701",
+          "browse_flag": true,
+          "collection_concept_id": "C2617126679-POCLOUD",
+          "online_access_flag": true,
+          "links": [
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_BROWSE.png",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B01_WTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B02_BWTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B03_CONF.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B04_DIAG.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B05_WTR-1.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B06_WTR-2.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B07_LAND.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B08_SHAD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B09_CLOUD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B10_DEM.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0.iso.xml",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B01_WTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B02_BWTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B03_CONF.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B04_DIAG.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B05_WTR-1.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B06_WTR-2.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B07_LAND.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B08_SHAD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B09_CLOUD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B10_DEM.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T154614Z_20250713T023220Z_L8_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "api endpoint to retrieve temporary credentials valid for same-region direct s3 access",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/s3credentials"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://podaac.jpl.nasa.gov/CitingPODAAC"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://cmr.earthdata.nasa.gov/virtual-directory/collections/C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://search.earthdata.nasa.gov/search/granules?p=C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://doi.org/10.3390/rs11040374"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://github.com/OPERA-Cal-Val/OPERA_Applications"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/atbd/DSWx-HLS_ATBD_V1_4_DAAC_Distribution.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://github.com/podaac/data-subscriber"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "hreflang": "en-US",
+              "href": "https://harmony.earthdata.nasa.gov/"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            }
+          ]
+        },
+        {
+          "producer_granule_id": "OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0",
+          "boxes": [
+            "38.7808464 -77.3922741 39.788742 -76.0951588"
+          ],
+          "time_start": "2025-07-11T16:12:23.417Z",
+          "updated": "2025-07-13T03:03:47.433Z",
+          "dataset_id": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)",
+          "data_center": "POCLOUD",
+          "title": "OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0",
+          "coordinate_system": "CARTESIAN",
+          "day_night_flag": "UNSPECIFIED",
+          "time_end": "2025-07-11T16:12:23.417Z",
+          "id": "G3602080341-POCLOUD",
+          "original_format": "UMM_JSON",
+          "granule_size": "42.12484169006347",
+          "browse_flag": true,
+          "collection_concept_id": "C2617126679-POCLOUD",
+          "online_access_flag": true,
+          "links": [
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_BROWSE.png",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B01_WTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B02_BWTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B03_CONF.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B04_DIAG.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B05_WTR-1.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B06_WTR-2.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B07_LAND.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B08_SHAD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B09_CLOUD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B10_DEM.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0.iso.xml",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B01_WTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B02_BWTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B03_CONF.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B04_DIAG.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B05_WTR-1.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B06_WTR-2.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B07_LAND.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B08_SHAD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B09_CLOUD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B10_DEM.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250711T155819Z_20250713T024414Z_S2B_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "api endpoint to retrieve temporary credentials valid for same-region direct s3 access",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/s3credentials"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://podaac.jpl.nasa.gov/CitingPODAAC"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://cmr.earthdata.nasa.gov/virtual-directory/collections/C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://search.earthdata.nasa.gov/search/granules?p=C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://doi.org/10.3390/rs11040374"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://github.com/OPERA-Cal-Val/OPERA_Applications"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/atbd/DSWx-HLS_ATBD_V1_4_DAAC_Distribution.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://github.com/podaac/data-subscriber"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "hreflang": "en-US",
+              "href": "https://harmony.earthdata.nasa.gov/"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            }
+          ]
+        },
+        {
+          "producer_granule_id": "OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0",
+          "boxes": [
+            "37.8803635 -77.3617863 38.8878263 -76.0816707"
+          ],
+          "time_start": "2025-07-11T16:12:35.549Z",
+          "updated": "2025-07-13T03:56:47.453Z",
+          "dataset_id": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)",
+          "data_center": "POCLOUD",
+          "title": "OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0",
+          "coordinate_system": "CARTESIAN",
+          "day_night_flag": "UNSPECIFIED",
+          "time_end": "2025-07-11T16:12:35.549Z",
+          "id": "G3602131336-POCLOUD",
+          "original_format": "UMM_JSON",
+          "granule_size": "36.00485706329346",
+          "browse_flag": true,
+          "collection_concept_id": "C2617126679-POCLOUD",
+          "online_access_flag": true,
+          "links": [
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_BROWSE.png",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B01_WTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B02_BWTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B03_CONF.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B04_DIAG.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B05_WTR-1.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B06_WTR-2.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B07_LAND.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B08_SHAD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B09_CLOUD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B10_DEM.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0.iso.xml",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B01_WTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B02_BWTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B03_CONF.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B04_DIAG.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B05_WTR-1.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B06_WTR-2.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B07_LAND.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B08_SHAD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B09_CLOUD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B10_DEM.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250711T155819Z_20250713T033923Z_S2B_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "api endpoint to retrieve temporary credentials valid for same-region direct s3 access",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/s3credentials"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://podaac.jpl.nasa.gov/CitingPODAAC"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://cmr.earthdata.nasa.gov/virtual-directory/collections/C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://search.earthdata.nasa.gov/search/granules?p=C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://doi.org/10.3390/rs11040374"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://github.com/OPERA-Cal-Val/OPERA_Applications"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/atbd/DSWx-HLS_ATBD_V1_4_DAAC_Distribution.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://github.com/podaac/data-subscriber"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "hreflang": "en-US",
+              "href": "https://harmony.earthdata.nasa.gov/"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            }
+          ]
+        },
+        {
+          "producer_granule_id": "OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0",
+          "boxes": [
+            "38.7808464 -77.3922741 39.788742 -76.0951588"
+          ],
+          "time_start": "2025-07-13T16:02:47.165Z",
+          "updated": "2025-07-15T09:42:46.332Z",
+          "dataset_id": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)",
+          "data_center": "POCLOUD",
+          "title": "OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0",
+          "coordinate_system": "CARTESIAN",
+          "day_night_flag": "UNSPECIFIED",
+          "time_end": "2025-07-13T16:02:47.165Z",
+          "id": "G3605066906-POCLOUD",
+          "original_format": "UMM_JSON",
+          "granule_size": "45.239840507507324",
+          "browse_flag": true,
+          "collection_concept_id": "C2617126679-POCLOUD",
+          "online_access_flag": true,
+          "links": [
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_BROWSE.png",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B01_WTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B02_BWTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B03_CONF.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B04_DIAG.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B05_WTR-1.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B06_WTR-2.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B07_LAND.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B08_SHAD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B09_CLOUD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B10_DEM.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0.iso.xml",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B01_WTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B02_BWTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B03_CONF.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B04_DIAG.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B05_WTR-1.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B06_WTR-2.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B07_LAND.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B08_SHAD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B09_CLOUD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B10_DEM.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUJ_20250713T155001Z_20250715T093427Z_S2C_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "api endpoint to retrieve temporary credentials valid for same-region direct s3 access",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/s3credentials"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://podaac.jpl.nasa.gov/CitingPODAAC"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://cmr.earthdata.nasa.gov/virtual-directory/collections/C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://search.earthdata.nasa.gov/search/granules?p=C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://doi.org/10.3390/rs11040374"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://github.com/OPERA-Cal-Val/OPERA_Applications"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/atbd/DSWx-HLS_ATBD_V1_4_DAAC_Distribution.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://github.com/podaac/data-subscriber"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "hreflang": "en-US",
+              "href": "https://harmony.earthdata.nasa.gov/"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            }
+          ]
+        },
+        {
+          "producer_granule_id": "OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0",
+          "boxes": [
+            "37.8803635 -77.3617863 38.8878263 -76.0816707"
+          ],
+          "time_start": "2025-07-13T16:03:01.656Z",
+          "updated": "2025-07-15T09:42:47.008Z",
+          "dataset_id": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)",
+          "data_center": "POCLOUD",
+          "title": "OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0",
+          "coordinate_system": "CARTESIAN",
+          "day_night_flag": "UNSPECIFIED",
+          "time_end": "2025-07-13T16:03:01.656Z",
+          "id": "G3605066933-POCLOUD",
+          "original_format": "UMM_JSON",
+          "granule_size": "41.47010803222656",
+          "browse_flag": true,
+          "collection_concept_id": "C2617126679-POCLOUD",
+          "online_access_flag": true,
+          "links": [
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_BROWSE.png",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B01_WTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B02_BWTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B03_CONF.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B04_DIAG.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B05_WTR-1.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B06_WTR-2.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B07_LAND.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B08_SHAD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B09_CLOUD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B10_DEM.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0.iso.xml",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B01_WTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B02_BWTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B03_CONF.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B04_DIAG.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B05_WTR-1.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B06_WTR-2.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B07_LAND.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B08_SHAD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B09_CLOUD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B10_DEM.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250713T155001Z_20250715T093422Z_S2C_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "api endpoint to retrieve temporary credentials valid for same-region direct s3 access",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/s3credentials"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://podaac.jpl.nasa.gov/CitingPODAAC"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://cmr.earthdata.nasa.gov/virtual-directory/collections/C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://search.earthdata.nasa.gov/search/granules?p=C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://doi.org/10.3390/rs11040374"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://github.com/OPERA-Cal-Val/OPERA_Applications"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/atbd/DSWx-HLS_ATBD_V1_4_DAAC_Distribution.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://github.com/podaac/data-subscriber"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "hreflang": "en-US",
+              "href": "https://harmony.earthdata.nasa.gov/"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            }
+          ]
+        },
+        {
+          "producer_granule_id": "OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0",
+          "boxes": [
+            "37.8803635 -77.3617863 38.8878263 -76.0816707"
+          ],
+          "time_start": "2025-07-16T16:12:55.019Z",
+          "updated": "2025-07-23T06:48:54.907Z",
+          "dataset_id": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)",
+          "data_center": "POCLOUD",
+          "title": "OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0",
+          "coordinate_system": "CARTESIAN",
+          "day_night_flag": "UNSPECIFIED",
+          "time_end": "2025-07-16T16:12:55.019Z",
+          "id": "G3619613100-POCLOUD",
+          "original_format": "UMM_JSON",
+          "granule_size": "35.29267120361328",
+          "browse_flag": true,
+          "collection_concept_id": "C2617126679-POCLOUD",
+          "online_access_flag": true,
+          "links": [
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_BROWSE.png",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B01_WTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B02_BWTR.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B03_CONF.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B04_DIAG.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B05_WTR-1.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B06_WTR-2.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B07_LAND.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B08_SHAD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B09_CLOUD.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B10_DEM.tif",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0.iso.xml",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B01_WTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B02_BWTR.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B03_CONF.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B04_DIAG.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B05_WTR-1.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B06_WTR-2.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B07_LAND.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B08_SHAD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B09_CLOUD.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "Download OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B10_DEM.tif.md5",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_BROWSE.png"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B01_WTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B02_BWTR.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B03_CONF.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B04_DIAG.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B05_WTR-1.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B06_WTR-2.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B07_LAND.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B08_SHAD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B09_CLOUD.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/s3#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-protected/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B10_DEM.tif"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0.iso.xml"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B01_WTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B02_BWTR.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B03_CONF.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B04_DIAG.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B05_WTR-1.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B06_WTR-2.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B07_LAND.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B08_SHAD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B09_CLOUD.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "This link provides direct download access via S3 to the granule",
+              "hreflang": "en-US",
+              "href": "s3://podaac-ops-cumulus-public/OPERA_L3_DSWX-HLS_V1/OPERA_L3_DSWx-HLS_T18SUH_20250716T161151Z_20250723T064443Z_S2C_30_v1.0_B10_DEM.tif.md5"
+            },
+            {
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "title": "api endpoint to retrieve temporary credentials valid for same-region direct s3 access",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/s3credentials"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://podaac.jpl.nasa.gov/CitingPODAAC"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://cmr.earthdata.nasa.gov/virtual-directory/collections/C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://search.earthdata.nasa.gov/search/granules?p=C2617126679-POCLOUD"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://doi.org/10.3390/rs11040374"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://github.com/OPERA-Cal-Val/OPERA_Applications"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/atbd/DSWx-HLS_ATBD_V1_4_DAAC_Distribution.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_DSWx-HLS_ProductSpec_v1.0.0_D-107395_RevB.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://github.com/podaac/data-subscriber"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+              "hreflang": "en-US",
+              "href": "https://harmony.earthdata.nasa.gov/"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            },
+            {
+              "inherited": true,
+              "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+              "hreflang": "en-US",
+              "href": "https://archive.podaac.earthdata.nasa.gov/podaac-ops-cumulus-docs/web-misc/opera/OPERA_L3_DSWX-HLS_V1_Ancillary_Data_Access.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+station_id,name,latitude,longitude,elevation_m,state,variable,first_inventory_year,last_inventory_year,overlaps_event_years,inside_dc_coordinate_check,location_check_note
+US1DCDC0009,WASHINGTON 2.0 SSW,38.8766,-77.0224,3.0,DC,PRCP,2008,2026,True,True,Catalog longitude/latitude checked against DC GIS boundary. Catalog datum and historical station moves require review.
+US1DCDC0014,WASHINGTON 5.1 NW,38.9581,-77.0817,106.4,DC,PRCP,2011,2026,True,True,Catalog longitude/latitude checked against DC GIS boundary. Catalog datum and historical station moves require review.
