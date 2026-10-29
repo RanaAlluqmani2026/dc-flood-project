@@ -369,7 +369,6 @@ Include source scripts, the original event CSV, this README, actual environment 
 
 Raw PRISM archives, station downloads, satellite downloads, processed intermediate station CSVs and the intermediate PRISM-only HDF5 are rebuild inputs/intermediates rather than additional integrated deliverables. Keep local copies until submission is verified. Exclude large raw downloads, temporary files, duplicate scripts accidentally saved under `reports/`, virtual environments and credentials from the submission repository. Do not delete the reports themselves.
 
-GitHub publication and a fresh-directory rebuild are not established by this README; verify them during final packaging.
 
 ## Scientific limitations
 
